@@ -1,0 +1,80 @@
+.vazifa{
+    width: 150px;
+    height: 70px;
+    background-color: blue;
+    color: #fff;
+    font-size: 1.5rem;
+    position: absolute;
+    left: 100px;
+    border-radius: 20px;
+    padding: 5px;
+}
+.vazifa a{
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+}
+.head{
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+    position: relative;
+    border-radius: 50%;
+    box-shadow: 0 0 15px #000;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+.eye1{
+    width: 140px;
+    height: 110px;
+    background-color: #000;
+    position: absolute;
+    border-radius: 50%;
+    top: 180px;
+    left: 70px;
+}
+.circle1{
+    width: 160px;
+    height: 120px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: absolute;
+    top: 195px;
+    left: 60px;
+}
+.eye2{
+    width: 140px;
+    height: 110px;
+    background-color: #000;
+    position: absolute;
+    border-radius: 50%;
+    top: 180px;
+    right: 70px;
+}
+.circle2{
+    width: 160px;
+    height: 120px;
+    background-color: yellow;
+    border-radius: 50%;
+    position: absolute;
+    top: 195px;
+    right: 60px;
+}
+.mouth1{
+    width: 300px;
+    height: 200px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 230px;
+    left: 100px;
+}
+.mouth2{
+    width: 300px;
+    height: 190px;
+    background-color: yellow;
+    position: absolute;
+    border-radius: 50%;
+    top: 220px;
+    left: 100px;
+}
